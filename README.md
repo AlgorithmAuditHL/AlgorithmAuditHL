@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python, AI and everything Algorithm Audit
 - 📫 How to reach me ... huilu927@gmail.com  
 - 😄 Pronouns: ......
-- ⚡ Fun fact: ... I always wakes up at 2AM
+- ⚡ Fun fact: ... I always wake up at 2AM
 
 <!---
 AlgorithmAuditHL/AlgorithmAuditHL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
